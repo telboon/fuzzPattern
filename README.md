@@ -57,7 +57,7 @@ Pattern found: 1406084
 
 pattern_offset -- Repeats every 20,280 bytes
 ```
-$ /usr/share/metasploit-framework/tools/exploifuzzPatternCreate -- Repeats every 703,040 bytest/pattern_offset.rb -l 50000 -q Aa1A
+$ /usr/share/metasploit-framework/tools/exploit/pattern_offset.rb -l 50000 -q Aa1A
 [*] Exact match at offset 3
 [*] Exact match at offset 20283
 [*] Exact match at offset 40563
