@@ -1,5 +1,5 @@
 # fuzzPattern
-Creates fuzz pattern for fuzzing purpose. Use fuzzPatternCreate to create pattern and fuzzPatternSearch to find the string/hex found.
+Creates fuzz pattern for fuzzing purpose. Use `fuzzPatternCreate` to create pattern and `fuzzPatternSearch` to find the string/hex found.
 
 The item found is assumed to be 4 bytes (32 bit) or above.
 
